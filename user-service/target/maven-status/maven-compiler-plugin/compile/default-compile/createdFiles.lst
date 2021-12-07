@@ -1,0 +1,5 @@
+com\oncore\userservice\controller\UserController.class
+com\oncore\userservice\model\UserAndDepartment.class
+com\oncore\userservice\model\User.class
+com\oncore\userservice\UserServiceApplication.class
+com\oncore\userservice\model\Department.class
